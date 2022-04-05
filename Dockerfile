@@ -1,12 +1,27 @@
-# Tags: latest, 2.4.53-debian-10-r16, 2.4.53, 2.4-debian-10, 2.4
+# Tags: latest, 2.4.53-debian-10-r21, 2.4.53, 2.4-debian-10, 2.4
 FROM bitnami/apache:latest
-FROM bitnami/apache:2.4.53-debian-10-r16
+FROM bitnami/apache:2.4.53-debian-10-r21
 FROM bitnami/apache:2.4.53
 FROM bitnami/apache:2.4-debian-10
 FROM bitnami/apache:2.4
 
 # Tags: _
 FROM bitnami/apache:_
+
+# Tags: 2.4.53-debian-10-r20
+FROM bitnami/apache:2.4.53-debian-10-r20
+
+# Tags: 2.4.53-debian-10-r19
+FROM bitnami/apache:2.4.53-debian-10-r19
+
+# Tags: 2.4.53-debian-10-r18
+FROM bitnami/apache:2.4.53-debian-10-r18
+
+# Tags: 2.4.53-debian-10-r17
+FROM bitnami/apache:2.4.53-debian-10-r17
+
+# Tags: 2.4.53-debian-10-r16
+FROM bitnami/apache:2.4.53-debian-10-r16
 
 # Tags: 2.4.53-debian-10-r15
 FROM bitnami/apache:2.4.53-debian-10-r15
@@ -89,18 +104,3 @@ FROM bitnami/apache:2.4.52-debian-10-r70
 
 # Tags: 2.4.52-debian-10-r69
 FROM bitnami/apache:2.4.52-debian-10-r69
-
-# Tags: 2.4.52-debian-10-r68
-FROM bitnami/apache:2.4.52-debian-10-r68
-
-# Tags: 2.4.52-debian-10-r67
-FROM bitnami/apache:2.4.52-debian-10-r67
-
-# Tags: 2.4.52-debian-10-r66
-FROM bitnami/apache:2.4.52-debian-10-r66
-
-# Tags: 2.4.52-debian-10-r65
-FROM bitnami/apache:2.4.52-debian-10-r65
-
-# Tags: 2.4.52-debian-10-r64
-FROM bitnami/apache:2.4.52-debian-10-r64
