@@ -88,6 +88,3 @@ FROM bitnami/apache:2.4.53-debian-10-r21
 
 # Tags: 2.4.53-debian-10-r20
 FROM bitnami/apache:2.4.53-debian-10-r20
-
-# Tags: 2.4.53-debian-10-r19
-FROM bitnami/apache:2.4.53-debian-10-r19
